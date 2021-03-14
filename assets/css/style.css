@@ -427,14 +427,14 @@ p {
 --------------------------------------------------------------*/
 #hero {
   background: url("../img/home-bg.jpg") repeat scroll center center/cover;
-  height: 100vh;
+  height: 80vh;
   width: 100%;
 }
 
 #hero .hero-content {
   height: 100vh;
   text-align: left;
-  width: 100%;
+  width: 130%;
   display: flex;
   justify-content: center;
   flex-direction: column;
