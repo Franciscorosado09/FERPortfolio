@@ -3,7 +3,7 @@
   
 
   # **Description**
-  * Welcome to my portfolio app where I share a little bit about me, my project I’m proud of, and my resume linked for downloading. Link: https://franciscorosado09.github.io/PortfolioFRosado/ 
+  * Welcome to my portfolio app where I share a little bit about me, my project I’m proud of, and my resume linked for downloading. Link: https://franciscorosado09.github.io/updatedPortfolio/
 
     ![website](./assets/img/website.png)
   
