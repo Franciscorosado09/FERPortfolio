@@ -5,7 +5,7 @@
   # **Description**
   * Welcome to my portfolio app where I share a little bit about me, my project I’m proud of, and my resume linked for downloading. Link: https://franciscorosado09.github.io/PortfolioFRosado/ 
 
-    ![website](./Assets/img/website.png)
+    ![website](./assets/img/website.png)
   
 
   # ** Table of Contents**
@@ -22,7 +22,7 @@
 
   # **Projects**
    1. Ace of Pentacles
-   ![AceOfPentacles](./Assets/img/AceOfPentacles.png)
+   ![AceOfPentacles](./assets/img/AceOfPentacles.png)
 
     * Ace of Pentacles is a tarot reading and astrology application utilizing RESTful APIs to provide dynamic insights for users.
     
@@ -33,7 +33,7 @@
 
    2. Bechdel Billboard
 
-   ![bechdelbillboard](./Assets/img/bechdelbillboard.png)
+   ![bechdelbillboard](./assets/img/bechdelbillboard.png)
 
     * The Bechdel Billboard is an app that allows the user to find a list of movies that pass the bechdel test and allow for our users to blog and comment on the stories that inspire them. The application uses MySql to store blog posts, users, and movie data. Current data is pulled from various sources on the internet and compiled into a CSV that has over 6,000 movies. The application features the ability to add movies and have them approved by the website admins before being added to the list. Future goals for the application include adding the ability to favorite movies on the list and have them stored in the database and accessed by the user on their user profile. For user security the application uses passport to encrypt passwords entered by the user. We hope our application adds an additional, interactive resource for users to learn more about movies empowering women through the decades.
 
@@ -43,7 +43,7 @@
 
    3. Weather Dashboard
 
-  ![weatherApp](./Assets/img/weatherApp.png)
+  ![weatherApp](./assets/img/weatherApp.png)
 
     * Use the OpenWeather API to retrieve weather data to pull city forecasts. Worked with APIs, JQuery, Javascript, HTML, CSS.
 
@@ -59,7 +59,7 @@
 
    4. Team Profile Generator
 
-   ![teamProfileGenerator](./Assets/img/teamProfileGenerator.png)
+   ![teamProfileGenerator](./assets/img/teamProfileGenerator.png)
 
     * Build a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
@@ -72,7 +72,7 @@
 
    5. Employee Tracker 
 
-   ![employeeTracker](./Assets/img/employeeTracker.png)
+   ![employeeTracker](./assets/img/employeeTracker.png)
 
     * Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. In this homework assignment, my challenge was to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
@@ -86,7 +86,7 @@
 
    6. Burger App
 
-   ![burgerapp](./Assets/img/burgerapp.png)
+   ![burgerapp](./assets/img/burgerapp.png)
 
     * In this assignment, I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I followed the MVC design pattern; use Node and MySQL to query and route data in my app, and Handlebars to generate HTML.
 
