@@ -426,7 +426,7 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("/assets/img/home-bg.jpg") repeat scroll center center/cover;
+  background: url("../img/home-bg.jpg") repeat scroll center center/cover;
   height: 80vh;
   width: 100%;
 }
