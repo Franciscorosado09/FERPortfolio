@@ -3,7 +3,7 @@
   
 
   # **Description**
-  * Welcome to my portfolio app where I share a little bit about me, my project I’m proud of, and my resume linked for downloading. Link: https://franciscorosado09.github.io/updatedPortfolio/
+  * Welcome to my portfolio app where I share a little bit about me, my project I’m proud of, and my resume linked for downloading. Link: https://franciscorosado09.github.io/FERPortfolio/
 
     ![website](./assets/img/website.png)
   
@@ -129,7 +129,8 @@
   # **Application**
   * Porfolio-Francisco E. Rosado is on version 2.0
 
-  * Link to Application: https://franciscorosado09.github.io/PortfolioFRosado/ 
+  * Link to Application: https://franciscorosado09.github.io/FERPortfolio/
+  
   * ID to Github Repo: Franciscorosado09
   
   # **Contributors**
